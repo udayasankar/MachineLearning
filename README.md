@@ -1,3 +1,5 @@
 # MachineLearning
+stanford :
+ https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
 
-stanford : https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
+https://stanford.edu/~shervine/teaching/cs-221/
