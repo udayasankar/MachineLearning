@@ -17,4 +17,5 @@ https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022
 
 https://github.com/TheAlgorithms/Jupyter
 
+https://github.com/trekhleb/homemade-machine-learning
 
