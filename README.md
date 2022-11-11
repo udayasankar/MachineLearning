@@ -1,4 +1,22 @@
 # MachineLearning
+*******************************************************************************************************************************************************************
+Best Resource for Recommendation Systems
+
+If you are working on Recommendation Systems then there are 3 great places to learn from. There are various implementation methods along with several example notebooks.
+
+1. https://lnkd.in/e6QzR7AA (Microsoft)
+
+2. https://lnkd.in/eTHaXSXn (Google)
+
+3. https://lnkd.in/edzU4xMy
+
+example notebooks:
+1. https://lnkd.in/erKHP3EE
+
+2. https://lnkd.in/etQaDhPN
+
+3. https://lnkd.in/exSuQBYg
+********************************************************************************************************************************************************************
 ***********************************************************************************************************************************************************************
 
  𝐓𝐨𝐩 𝟏𝟏 𝐛𝐞𝐬𝐭 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 𝐋𝐢𝐬𝐭 :
