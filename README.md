@@ -1,36 +1,36 @@
 # MachineLearning
 
- This catalog of NLP Primers focuses on important topics such as:
-🔹 Word Vectors/Embeddings: http://embeddings.aman.ai
-🔹 NLP Tasks: http://nlp-tasks.aman.ai
-🔹 Preprocessing: http://tokenizer.aman.ai
-🔹 Tokenization: http://tokenizer.aman.ai
-🔹 Neural Architectures: http://arch.aman.ai
-🔹 Attention: http://attention.aman.ai
-🔹 Transformers: http://transformer.aman.ai
-🔹 Overview of LLMs: http://llm.aman.ai
-🔹 Overview of VLMs: http://vlm.aman.ai
-🔹 Parameter Efficient Fine-Tuning: http://peft.aman.ai
-🔹 LLM Alignment: http://alignment.aman.ai
-🔹 Retrieval Augmented Generation (RAG): http://rag.aman.ai
-🔹 Context Length Extension: http://llm-context.aman.ai
-🔹 Document Intelligence: http://doc-intel.aman.ai
-🔹 Token Sampling Methods: http://token-smple.aman.ai
-🔹 Autoregressive vs. Autoencoder Models: http://enc-dec.aman.ai
-🔹 Evaluation Metrics: http://metrics.aman.ai
-🔹 Textual Entailment: http://entailment.aman.ai
-🔹 BERT: http://bert.aman.ai
-🔹 GPT: http://gpt.aman.ai
-🔹 Llama: http://llama.aman.ai
-🔹 Gemini: http://gemini.aman.ai
-🔹 Toolformer: http://toolformer.aman.ai
-🔹 Knowledge Graphs: http://kg.aman.ai
-🔹 Hallucination Mitigation: http://hallu-mitgn.aman.ai
-🔹 Named Entity Recognition: http://ner.aman.ai
-🔹 Machine Translation: http://translatn.aman.ai
-🔹 AI Generated Text Detection Techniques: http://ai-detect.aman.ai
-🔹 Document Intelligence: http://doc-intel.aman.ai
-🔹 Top Papers in NLP Research: http://nlp-papers.aman.ai
+ <h1>This catalog of NLP Primers focuses on important topics such as:<h1>
+<p>🔹 Word Vectors/Embeddings: http://embeddings.aman.ai</p>
+<p>🔹 NLP Tasks: http://nlp-tasks.aman.ai</p>
+<p>🔹 Preprocessing: http://tokenizer.aman.ai</p>
+<p>🔹 Tokenization: http://tokenizer.aman.ai</p>
+<p>🔹 Neural Architectures: http://arch.aman.ai</p>
+<p>🔹 Attention: http://attention.aman.ai</p>
+<p>🔹 Transformers: http://transformer.aman.ai</p>
+<p>🔹 Overview of LLMs: http://llm.aman.ai</p>
+<p>🔹 Overview of VLMs: http://vlm.aman.ai</p>
+<p>🔹 Parameter Efficient Fine-Tuning: http://peft.aman.ai</p>
+<p>🔹 LLM Alignment: http://alignment.aman.ai</p>
+<p>🔹 Retrieval Augmented Generation (RAG): http://rag.aman.ai</p>
+<p>🔹 Context Length Extension: http://llm-context.aman.ai</p>
+<p>🔹 Document Intelligence: http://doc-intel.aman.ai</p>
+<p>🔹 Token Sampling Methods: http://token-smple.aman.ai</p>
+<p>🔹 Autoregressive vs. Autoencoder Models: http://enc-dec.aman.ai</p>
+<p>🔹 Evaluation Metrics: http://metrics.aman.ai</p>
+<p>🔹 Textual Entailment: http://entailment.aman.ai</p>
+<p>🔹 BERT: http://bert.aman.ai</p>
+<p>🔹 GPT: http://gpt.aman.ai</p>
+<p>🔹 Llama: http://llama.aman.ai</p>
+<p>🔹 Gemini: http://gemini.aman.ai</p>
+<p>🔹 Toolformer: http://toolformer.aman.ai</p>
+<p>🔹 Knowledge Graphs: http://kg.aman.ai</p>
+<p>🔹 Hallucination Mitigation: http://hallu-mitgn.aman.ai</p>
+<p>🔹 Named Entity Recognition: http://ner.aman.ai</p>
+<p>🔹 Machine Translation: http://translatn.aman.ai</p>
+<p>🔹 AI Generated Text Detection Techniques: http://ai-detect.aman.ai</p>
+<p>🔹 Document Intelligence: http://doc-intel.aman.ai</p>
+<p>🔹 Top Papers in NLP Research: http://nlp-papers.aman.ai</p>
 
 <h1>BOOKS</h1>
 <p>https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/</p>
