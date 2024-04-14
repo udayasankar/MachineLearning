@@ -169,7 +169,12 @@
     <td>29</td>
     <td>Top Papers in NLP Research</td>
     <td>http://nlp-papers.aman.ai</td>
-  </tr>   
+  </tr>
+   <tr>
+    <td>30</td>
+    <td>AMAN Blog</td>
+    <td>https://aman.ai/primers/ai/</td>
+  </tr>    
 </table>
 
 
