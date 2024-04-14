@@ -1,36 +1,178 @@
 # MachineLearning
 
- <h1>This catalog of NLP Primers focuses on important topics such as:<h1>
-<p>🔹 Word Vectors/Embeddings: http://embeddings.aman.ai</p>
-<p>🔹 NLP Tasks: http://nlp-tasks.aman.ai</p>
-<p>🔹 Preprocessing: http://tokenizer.aman.ai</p>
-<p>🔹 Tokenization: http://tokenizer.aman.ai</p>
-<p>🔹 Neural Architectures: http://arch.aman.ai</p>
-<p>🔹 Attention: http://attention.aman.ai</p>
-<p>🔹 Transformers: http://transformer.aman.ai</p>
-<p>🔹 Overview of LLMs: http://llm.aman.ai</p>
-<p>🔹 Overview of VLMs: http://vlm.aman.ai</p>
-<p>🔹 Parameter Efficient Fine-Tuning: http://peft.aman.ai</p>
-<p>🔹 LLM Alignment: http://alignment.aman.ai</p>
-<p>🔹 Retrieval Augmented Generation (RAG): http://rag.aman.ai</p>
-<p>🔹 Context Length Extension: http://llm-context.aman.ai</p>
-<p>🔹 Document Intelligence: http://doc-intel.aman.ai</p>
-<p>🔹 Token Sampling Methods: http://token-smple.aman.ai</p>
-<p>🔹 Autoregressive vs. Autoencoder Models: http://enc-dec.aman.ai</p>
-<p>🔹 Evaluation Metrics: http://metrics.aman.ai</p>
-<p>🔹 Textual Entailment: http://entailment.aman.ai</p>
-<p>🔹 BERT: http://bert.aman.ai</p>
-<p>🔹 GPT: http://gpt.aman.ai</p>
-<p>🔹 Llama: http://llama.aman.ai</p>
-<p>🔹 Gemini: http://gemini.aman.ai</p>
-<p>🔹 Toolformer: http://toolformer.aman.ai</p>
-<p>🔹 Knowledge Graphs: http://kg.aman.ai</p>
-<p>🔹 Hallucination Mitigation: http://hallu-mitgn.aman.ai</p>
-<p>🔹 Named Entity Recognition: http://ner.aman.ai</p>
-<p>🔹 Machine Translation: http://translatn.aman.ai</p>
-<p>🔹 AI Generated Text Detection Techniques: http://ai-detect.aman.ai</p>
-<p>🔹 Document Intelligence: http://doc-intel.aman.ai</p>
-<p>🔹 Top Papers in NLP Research: http://nlp-papers.aman.ai</p>
+<h1>This catalog of NLP Primers focuses on important topics such as</h1>
+<table>
+  <tr>
+    <th>No</th>
+    <th>Notes</th>
+    <th>URLS</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Word Vectors/Embeddings</td>
+    <td>http://embeddings.aman.ai</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>AWS Architecture Blog</td>
+    <td>https://lnkd.in/eEchKJif</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>System design newsletter</td>
+    <td>https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Word Vectors/Embeddings</td>
+    <td>http://embeddings.aman.ai</td>
+  </tr>
+   <tr>
+    <td>2</td>
+    <td>NLP Tasks</td>
+    <td>http://nlp-tasks.aman.ai</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Preprocessing</td>
+    <td>http://tokenizer.aman.ai</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>Tokenization</td>
+    <td>http://tokenizer.aman.ai</td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>Attention</td>
+    <td>http://attention.aman.ai</td>
+  </tr>
+   <tr>
+    <td>6</td>
+    <td>Transformers</td>
+    <td>http://transformer.aman.ai</td>
+  </tr>
+   <tr>
+    <td>7</td>
+    <td>Overview of LLMs</td>
+    <td>http://llm.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>8</td>
+    <td>Overview of VLMs</td>
+    <td>http://vlm.aman.ai</td>
+  </tr>   
+   <tr>
+    <td>9</td>
+    <td>Parameter Efficient Fine-Tuning</td>
+    <td>http://peft.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>10</td>
+    <td>LLM Alignment</td>
+    <td>http://alignment.aman.ai</td>
+  </tr> 
+   <tr>
+    <td>11</td>
+    <td>Retrieval Augmented Generation (RAG)</td>
+    <td>http://rag.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>12</td>
+    <td>Context Length Extension</td>
+    <td>http://llm-context.aman.ai</td>
+  </tr>    
+  </tr>  
+   <tr>
+    <td>13</td>
+    <td>Document Intelligence</td>
+    <td>http://token-smple.aman.ai</td>
+  </tr>   
+  </tr>  
+   <tr>
+    <td>14</td>
+    <td>Token Sampling Methods</td>
+    <td>http://llm-context.aman.ai</td>
+  </tr>   
+  </tr>  
+   <tr>
+    <td>15</td>
+    <td>Autoregressive vs. Autoencoder Models</td>
+    <td>http://enc-dec.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>16</td>
+    <td>Evaluation Metrics</td>
+    <td>http://metrics.aman.ai</td>
+  </tr>
+   <tr>
+    <td>17</td>
+    <td>Textual Entailment</td>
+    <td>http://entailment.aman.ai</td>
+  </tr>
+   <tr>
+    <td>18</td>
+    <td>BERT</td>
+    <td>http://bert.aman.ai</td>
+  </tr>
+   <tr>
+    <td>19</td>
+    <td>GPT</td>
+    <td>http://gpt.aman.ai</td>
+  </tr>
+   <tr>
+    <td>20</td>
+    <td>Llama</td>
+    <td>http://llama.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>21</td>
+    <td>Gemini</td>
+    <td>http://gemini.aman.ai</td>
+  </tr>    
+   <tr>
+    <td>22</td>
+    <td>Toolformer</td>
+    <td>http://toolformer.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>23</td>
+    <td>Knowledge Graphs</td>
+    <td>http://kg.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>24</td>
+    <td>Hallucination Mitigation</td>
+    <td>http://hallu-mitgn.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>25</td>
+    <td>Named Entity Recognition</td>
+    <td>http://ner.aman.ai</td>
+  </tr>    
+   <tr>
+    <td>26</td>
+    <td>Machine Translation</td>
+    <td>http://translatn.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>27</td>
+    <td>AI Generated Text Detection Techniques</td>
+    <td>http://ai-detect.aman.ai</td>
+  </tr>  
+   <tr>
+    <td>28</td>
+    <td>Document Intelligence</td>
+    <td>http://doc-intel.aman.ai</td>
+  </tr> 
+   <tr>
+    <td>29</td>
+    <td>Top Papers in NLP Research</td>
+    <td>http://nlp-papers.aman.ai</td>
+  </tr>   
+</table>
+
+
 
 <h1>BOOKS</h1>
 <p>https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/</p>
