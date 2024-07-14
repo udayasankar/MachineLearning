@@ -208,15 +208,15 @@
 
 <table>
 <th>Best Resource for Recommendation Systems</th>
-<tr>https://lnkd.in/e6QzR7AA (Microsoft)</tr>
-<tr>https://lnkd.in/eTHaXSXn (Google)</tr>
-<tr>https://lnkd.in/edzU4xMy</tr>
-<tr>https://lnkd.in/e6QzR7AA (Microsoft)</tr>
+<tr><td>https://lnkd.in/e6QzR7AA (Microsoft)</td></tr>
+<tr><td>https://lnkd.in/eTHaXSXn (Google)</td></tr>
+<tr><td>https://lnkd.in/edzU4xMy</td></tr>
+<tr><td>https://lnkd.in/e6QzR7AA (Microsoft)</td></tr>
 </table>
 
 <table>
 <th>>example notebooks:</th>
-<tr>https://lnkd.in/erKHP3EE</tr>
-<tr>https://lnkd.in/etQaDhPN</tr>
-<tr>https://lnkd.in/exSuQBYg</tr>
+<tr><td>https://lnkd.in/erKHP3EE</td></tr>
+<tr><td>https://lnkd.in/etQaDhPN</td></tr>
+<tr><td>https://lnkd.in/exSuQBYg</td></tr>
 </table>
