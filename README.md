@@ -190,3 +190,18 @@
     <td>https://huyenchip.com/machine-learning-systems-design/design-a-machine-learning-system.html#model-selection-eRQEIDR</td>
    </tr> 
 </table>
+
+<table>
+<th>Courses</th><th>Link</th>
+<tr><td>Harvard CS 109A Data Science</td><td> https://lnkd.in/dcKQ9fuQ</td></tr>
+<tr><td>Stanford CS229: Machine Learning</td><td>https://lnkd.in/dtDUHgbA </td></tr>
+<tr><td>Columbia COMS W4995: Applied Machine Learning</td><td>https://lnkd.in/d6wT4Y8u</td></tr>
+<tr><td>edX ColumbiaX: Machine Learning</td><td>https://lnkd.in/d9fWNiZP</td></tr>
+<tr><td>Berkeley CS294: Fairness in Machine Learning</td><td>https://lnkd.in/dRNaEUY2</td></tr>
+<tr><td>Google: Machine Learning Crash Course</td><td>https://lnkd.in/dYcR_ne2 </td></tr>
+<tr><td>Google: AI Education</td><td>https://lnkd.in/dAPMhDaS</td></tr>
+<tr><td>Google: Applied Machine Learning Intensive</td><td>https://lnkd.in/d39vqqSA</td></tr>
+<tr><td>Cornell Tech CS5785: Applied Machine Learning</td><td>https://lnkd.in/dPv433vh</td></tr>
+<tr><td>Probabilistic Machine Learning (Summer 2020)</td><td>https://lnkd.in/d5y-susP</td></tr>
+<tr><td>AutoML - Automated Machine Learning</td><td>https://lnkd.in/dHgep85n</td></tr>
+</table>
