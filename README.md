@@ -205,3 +205,18 @@
 <tr><td>Probabilistic Machine Learning (Summer 2020)</td><td>https://lnkd.in/d5y-susP</td></tr>
 <tr><td>AutoML - Automated Machine Learning</td><td>https://lnkd.in/dHgep85n</td></tr>
 </table>
+
+<table>
+<th>>Best Resource for Recommendation Systems</th>
+<tr>https://lnkd.in/e6QzR7AA (Microsoft)</tr>
+<tr>https://lnkd.in/eTHaXSXn (Google)</tr>
+<tr>https://lnkd.in/edzU4xMy</tr>
+<tr>https://lnkd.in/e6QzR7AA (Microsoft)</tr>
+</table>
+
+<table>
+<th>>example notebooks:</th>
+<tr>https://lnkd.in/erKHP3EE</tr>
+<tr>https://lnkd.in/etQaDhPN</tr>
+<tr>https://lnkd.in/exSuQBYg</tr>
+</table>
