@@ -208,7 +208,7 @@
 
 <table>
 <th>Best Resource for Recommendation Systems</th>
-<tr><td>https://lnkd.in/e6QzR7AA (Microsoft)</td></tr>
+<tr><td>https://github.com/recommenders-team/recommenders (Microsoft)</td></tr>
 <tr><td>https://lnkd.in/eTHaXSXn (Google)</td></tr>
 <tr><td>https://lnkd.in/edzU4xMy</td></tr>
 <tr><td>https://lnkd.in/e6QzR7AA (Microsoft)</td></tr>
