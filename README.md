@@ -215,7 +215,7 @@
 </table>
 
 <table>
-<th>>example notebooks:</th>
+<th>example notebooks:</th>
 <tr><td>https://lnkd.in/erKHP3EE</td></tr>
 <tr><td>https://lnkd.in/etQaDhPN</td></tr>
 <tr><td>https://lnkd.in/exSuQBYg</td></tr>
