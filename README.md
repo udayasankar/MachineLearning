@@ -207,7 +207,7 @@
 </table>
 
 <table>
-<th>>Best Resource for Recommendation Systems</th>
+<th>Best Resource for Recommendation Systems</th>
 <tr>https://lnkd.in/e6QzR7AA (Microsoft)</tr>
 <tr>https://lnkd.in/eTHaXSXn (Google)</tr>
 <tr>https://lnkd.in/edzU4xMy</tr>
