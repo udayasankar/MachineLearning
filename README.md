@@ -7,10 +7,6 @@
     <th>URLS</th>
   </tr>
   <tr>
-    <td>Data AI projects/Embeddings</td>
-    <td>https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects</td>
-  </tr>
-  <tr>
     <td>AWS Architecture Blog</td>
     <td>https://lnkd.in/eEchKJif</td>
   </tr>
