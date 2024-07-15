@@ -7,8 +7,8 @@
     <th>URLS</th>
   </tr>
   <tr>
-    <td>AWS Architecture Blog</td>
-    <td>https://lnkd.in/eEchKJif</td>
+    <td>AI Data Guide</td>
+    <td>https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects</td>
   </tr>
    <tr>
     <td>System design newsletter</td>
