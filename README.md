@@ -6,7 +6,23 @@
     <th>Notes</th>
     <th>URLS</th>
   </tr>
-  <tr>
+   <tr>
+    <td>Machine learning algorithms</td>
+    <td>https://github.com/TheAlgorithms/Jupyter/tree/master/machine_learning</td>
+  </tr>
+    <tr>
+    <td>Time series anamoly detection</td>
+    <td>https://towardsdatascience.com/time-series-anomaly-detection-with-pyfbad-d37e5462c6c3</td>
+  </tr>
+      <tr>
+    <td>uber datadrift</td>
+    <td>https://www.uber.com/en-IN/blog/d3-an-automated-system-to-detect-data-drifts/</td>
+  </tr>
+        <tr>
+    <td>identify missing timeseries data</td>
+    <td>https://www.kdnuggets.com/how-to-identify-missing-data-in-timeseries-datasets)/td>
+  </tr>
+    <tr>
     <td>AI Data Guide</td>
     <td>https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects</td>
   </tr>
