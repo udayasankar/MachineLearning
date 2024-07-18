@@ -232,3 +232,14 @@
 <tr><td>https://lnkd.in/etQaDhPN</td></tr>
 <tr><td>https://lnkd.in/exSuQBYg</td></tr>
 </table>
+
+<table>
+  <tr>
+    <td>AI notes</td>
+    <td>https://github.com/swyxio/ai-notes</td>
+  </tr>
+    <tr>
+    <td>AI notes</td>
+    <td>https://github.com/swyxio/ai-notes</td>
+  </tr>
+</table>
