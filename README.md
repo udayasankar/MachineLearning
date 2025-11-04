@@ -1,5 +1,9 @@
 # MachineLearning
 
+Introduction to Machine Learning: https://arxiv.org/pdf/2409.02668
+
+Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning : https://www.cis.upenn.edu/~jean/math-deep.pdf#page=1731.18
+
 <h1>This catalog of NLP Primers focuses on important topics such as</h1>
 <table>
   <tr>
