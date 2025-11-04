@@ -243,3 +243,5 @@
     <td>https://github.com/swyxio/ai-notes</td>
   </tr>
 </table>
+
+Exercises in Machine Learning: https://arxiv.org/pdf/2206.13446#page=17.71
